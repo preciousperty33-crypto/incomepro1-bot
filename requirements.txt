@@ -1,5 +1,4 @@
 telethon
-pillow
 pytesseract
+pillow
 apscheduler
-pytz
